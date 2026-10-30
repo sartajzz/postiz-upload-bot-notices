@@ -13,7 +13,7 @@ title: Privacy Policy — Postiz Upload bot
 
 Postiz Upload bot is a private, allowlisted WhatsApp upload utility operated on the operator’s computer. It receives supported MP4 documents or videos from approved senders and transfers them to the operator’s self-hosted Postiz media library. It is not an official WhatsApp, Meta, Instagram, or Postiz service.
 
-The bot does not automatically send WhatsApp replies, create social-post drafts, schedule posts, or publish videos to Instagram. Any later social-media publication through Postiz is a separate action controlled by the operator. Send only material you are entitled to share, with appropriate permission from people shown in it.
+The bot sends automated upload-status replies only to approved senders. It does not create social-post drafts, schedule posts, or publish videos to Instagram. It stores notification timestamps, delivery outcomes, and hash-based sender references locally. Any later social-media publication through Postiz is a separate action controlled by the operator. Send only material you are entitled to share, with appropriate permission from people shown in it.
 
 ## Information processed
 
